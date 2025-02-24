@@ -205,6 +205,7 @@
                                /* page5 */
                                .page5{
                                 background-color: #2F1893;
+        
                                 /* height: 800px;
                                 border: 20px solid black; */
                                }
@@ -220,9 +221,19 @@
                                 display: flex;
                                 justify-content: space-evenly;
                                 align-items: center;
-                                
+                                    border: 10xp solid black
                                }
-                               
+                                       .page51{
+                                border: 2px solid white;
+                                width: 600px;
+                                margin-left: 80px;
+                                color: white;
+                                margin-top: 10px
+                               }
+                               .page5pic{
+                                color: white;
+                                margin-top: 20px;
+                               }
 
                           /** footer **/
 .foot-panel1 {
