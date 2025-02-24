@@ -68,6 +68,20 @@
     padding-left: 10px;
 }
 
+:hover.tw{
+    color: red;
+border:1px solid blue;
+}
+
+:hover.fc{
+    color: red;
+border:1px solid blue;
+}
+:hover.dr{
+    color: red;
+border:1px solid blue;
+}
+
 .allab{
     display: flex;
     justify-content: space-evenly;
